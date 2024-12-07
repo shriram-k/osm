@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.9",
-    "csv-writer": "^1.6.0",
-    "osm-read": "^0.7.0",
-    "unzipper": "^0.12.3"
+    "mysql2": "^3.11.5",
+    "osm-pbf-parser": "^2.3.0",
+    "sequelize": "^6.37.5"
   }
 }
